@@ -1,6 +1,7 @@
 "use client"
 
 import Link from "next/link"
+import Image from "next/image"
 import { useState } from "react"
 
 export default function Navigation() {
@@ -20,8 +21,8 @@ export default function Navigation() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <Link href="/" className="flex items-center space-x-3 group">
-            <img src="/logo.png" alt="Cybrbrain" className="w-10 h-10 transition-transform duration-300 group-hover:scale-110" />
-            <img src="/name.png" alt="Cybrbrain" className="h-10 transition-transform duration-300 group-hover:scale-110" />
+            <Image src="/logo.png" alt="Cybrbrain" width={40} height={40} className="transition-transform duration-300 group-hover:scale-110" />
+            <Image src="/name.png" alt="Cybrbrain" width={120} height={40} className="h-10 w-auto transition-transform duration-300 group-hover:scale-110" />
           </Link>
 
           <div className="hidden md:flex items-center space-x-10">

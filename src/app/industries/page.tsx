@@ -33,7 +33,7 @@ export default function IndustriesPage() {
                 Pharma MSMEs
               </h2>
               <p className="text-xl text-gray-400 mb-10 leading-relaxed">
-                Ahmedabad's pharma ecosystem faces unique compliance challenges. Schedule M, CDSCO regulations, export requirements, and audit trails are non-negotiable. One mistake can mean shutdown.
+                Ahmedabad&apos;s pharma ecosystem faces unique compliance challenges. Schedule M, CDSCO regulations, export requirements, and audit trails are non-negotiable. One mistake can mean shutdown.
               </p>
               
               <div className="space-y-6 mb-10">
@@ -182,7 +182,7 @@ export default function IndustriesPage() {
               Why start with pharma?
             </h2>
             <p className="text-xl text-gray-400 mb-12 text-center leading-relaxed">
-              We understand pharma because we've lived it. The compliance burden is highest, the stakes are life-and-death, and the cashflow cycles are longest.
+              We understand pharma because we&apos;ve lived it. The compliance burden is highest, the stakes are life-and-death, and the cashflow cycles are longest.
             </p>
 
             <div className="space-y-8">
@@ -202,7 +202,7 @@ export default function IndustriesPage() {
                 </div>
                 <div>
                   <h4 className="text-white font-semibold mb-3 text-xl">Concentrated Ecosystem</h4>
-                  <p className="text-gray-400 text-lg leading-relaxed">Ahmedabad is India's pharma hub. 5,000+ pharma MSMEs in Gujarat alone. We can build deep expertise in one geography before expanding.</p>
+                  <p className="text-gray-400 text-lg leading-relaxed">Ahmedabad is India&apos;s pharma hub. 5,000+ pharma MSMEs in Gujarat alone. We can build deep expertise in one geography before expanding.</p>
                 </div>
               </div>
 

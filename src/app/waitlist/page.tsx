@@ -38,10 +38,10 @@ export default function WaitlistPage() {
             </svg>
           </div>
           <h1 className="text-4xl sm:text-5xl font-bold text-white mb-6">
-            You're on the waitlist!
+            You&apos;re on the waitlist!
           </h1>
           <p className="text-xl text-gray-400 mb-10 leading-relaxed">
-            We'll reach out within 24 hours to schedule your demo. The Ahmedabad pharma pilot batch is filling up fast.
+            We&apos;ll reach out within 24 hours to schedule your demo. The Ahmedabad pharma pilot batch is filling up fast.
           </p>
           <Link
             href="/"
@@ -83,7 +83,7 @@ export default function WaitlistPage() {
         <div className="max-w-2xl mx-auto">
           <div className="premium-card glass rounded-2xl p-10 sm:p-14 animate-scale-in">
             <h2 className="text-3xl font-bold text-white mb-3">Tell us about your business</h2>
-            <p className="text-gray-400 mb-10 text-lg leading-relaxed">We'll reach out within 24 hours to schedule your demo.</p>
+            <p className="text-gray-400 mb-10 text-lg leading-relaxed">We&apos;ll reach out within 24 hours to schedule your demo.</p>
 
             <form onSubmit={handleSubmit} className="space-y-8">
               <div>

@@ -4,6 +4,7 @@ import { useEffect, useRef } from 'react';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import Link from 'next/link';
+import Image from 'next/image';
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -132,11 +133,13 @@ export default function Footer() {
         className="max-w-[1600px] mx-auto w-full flex justify-center mb-12 md:mb-16"
         style={{ opacity: 0 }}
       >
-        <img
+        <Image
           src="/name.png"
           alt="Cybrbrain"
+          width={1200}
+          height={200}
           className="w-full h-auto object-contain"
-          style={{ maxWidth: '100%' }}
+          priority
         />
       </div>
 
@@ -148,7 +151,7 @@ export default function Footer() {
       >
         {/* Logo / Copyright */}
         <div className="flex items-center gap-3 select-none">
-          <img
+          <Image
             src="/logo.png"
             alt="Cybrbrain"
             width={28}

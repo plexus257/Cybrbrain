@@ -12,7 +12,7 @@ export default function AboutPage() {
           </div>
           <div className="animate-fade-in-up stagger-2">
             <p className="text-xl sm:text-2xl text-gray-400 mb-12">
-              Building compliance infrastructure for India's regulated MSMEs.
+              Building compliance infrastructure for India&apos;s regulated MSMEs.
             </p>
           </div>
         </div>
@@ -23,10 +23,10 @@ export default function AboutPage() {
           <div className="premium-card glass rounded-2xl p-10 animate-fade-in-up">
             <h2 className="text-4xl sm:text-5xl font-bold text-white mb-8 leading-tight">The Problem</h2>
             <p className="text-xl text-gray-400 mb-6 leading-relaxed">
-              India's regulated MSMEs face a compliance crisis. Manual processes, spreadsheet chaos, and audit anxiety are the norm. One Schedule M gap can shut down a pharma unit for months. Payment delays from large buyers strangle working capital.
+              India&apos;s regulated MSMEs face a compliance crisis. Manual processes, spreadsheet chaos, and audit anxiety are the norm. One Schedule M gap can shut down a pharma unit for months. Payment delays from large buyers strangle working capital.
             </p>
             <p className="text-xl text-gray-400 leading-relaxed">
-              Existing solutions are either too enterprise-focused or too generic. No one is building infrastructure specifically for India's regulated MSMEs — the backbone of our manufacturing ecosystem.
+              Existing solutions are either too enterprise-focused or too generic. No one is building infrastructure specifically for India&apos;s regulated MSMEs — the backbone of our manufacturing ecosystem.
             </p>
           </div>
         </div>
@@ -37,7 +37,7 @@ export default function AboutPage() {
           <div className="premium-card glass rounded-2xl p-10 animate-fade-in-up">
             <h2 className="text-4xl sm:text-5xl font-bold text-white mb-8 leading-tight">Our Mission</h2>
             <p className="text-xl text-gray-400 mb-6 leading-relaxed">
-              We're building compliance + cashflow infrastructure that protects MSMEs from shutdown risk and unlocks their working capital.
+              We&apos;re building compliance + cashflow infrastructure that protects MSMEs from shutdown risk and unlocks their working capital.
             </p>
             <p className="text-xl text-gray-400 leading-relaxed">
               Not AI employees. Not automation gimmicks. Real systems that document, validate, and recover — with human approval at every step.
@@ -54,7 +54,7 @@ export default function AboutPage() {
               Every regulated MSME in India should have audit-ready systems and healthy cashflow. Compliance should be a competitive advantage, not a burden.
             </p>
             <p className="text-xl text-gray-400 leading-relaxed">
-              We're starting with pharma MSMEs in Ahmedabad. We'll expand to chemicals, food manufacturing, and export SMEs. The compliance challenges are similar — the infrastructure should be shared.
+              We&apos;re starting with pharma MSMEs in Ahmedabad. We&apos;ll expand to chemicals, food manufacturing, and export SMEs. The compliance challenges are similar — the infrastructure should be shared.
             </p>
           </div>
         </div>
@@ -101,7 +101,7 @@ export default function AboutPage() {
             Join us in building this
           </h2>
           <p className="text-xl text-gray-400 mb-10 leading-relaxed">
-            We're looking for pilot partners in Ahmedabad's pharma ecosystem.
+            We&apos;re looking for pilot partners in Ahmedabad&apos;s pharma ecosystem.
           </p>
           <Link
             href="/waitlist"

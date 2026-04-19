@@ -229,28 +229,28 @@ export default function PricingPage() {
             <div className="premium-card glass rounded-2xl p-8 animate-fade-in-up stagger-1">
               <h3 className="text-white font-semibold mb-4 text-xl">Why is pricing a range?</h3>
               <p className="text-gray-400 text-base leading-relaxed">
-                Pricing scales with your business size — number of users, document volume, and complexity of operations. We'll provide a custom quote based on your specific needs.
+                Pricing scales with your business size — number of users, document volume, and complexity of operations. We&apos;ll provide a custom quote based on your specific needs.
               </p>
             </div>
 
             <div className="premium-card glass rounded-2xl p-8 animate-fade-in-up stagger-2">
               <h3 className="text-white font-semibold mb-4 text-xl">How does the recovery module work?</h3>
               <p className="text-gray-400 text-base leading-relaxed">
-                You pay nothing upfront. We only charge a success fee (2-5%) on payments we actually recover for you. If we don't recover, you don't pay.
+                You pay nothing upfront. We only charge a success fee (2-5%) on payments we actually recover for you. If we don&apos;t recover, you don&apos;t pay.
               </p>
             </div>
 
             <div className="premium-card glass rounded-2xl p-8 animate-fade-in-up stagger-3">
               <h3 className="text-white font-semibold mb-4 text-xl">Can I combine plans?</h3>
               <p className="text-gray-400 text-base leading-relaxed">
-                Yes. Many businesses start with Compliance Plan and add the Recovery Module when they're ready to focus on collections.
+                Yes. Many businesses start with Compliance Plan and add the Recovery Module when they&apos;re ready to focus on collections.
               </p>
             </div>
 
             <div className="premium-card glass rounded-2xl p-8 animate-fade-in-up stagger-4">
-              <h3 className="text-white font-semibold mb-4 text-xl">What's included in the pilot?</h3>
+              <h3 className="text-white font-semibold mb-4 text-xl">What&apos;s included in the pilot?</h3>
               <p className="text-gray-400 text-base leading-relaxed">
-                The pilot is designed to help you validate the system with basic features. You'll get core compliance tracking and invoice aging dashboards at a reduced rate during the pilot period.
+                The pilot is designed to help you validate the system with basic features. You&apos;ll get core compliance tracking and invoice aging dashboards at a reduced rate during the pilot period.
               </p>
             </div>
 
@@ -271,7 +271,7 @@ export default function PricingPage() {
             Not sure which plan is right for you?
           </h2>
           <p className="text-xl text-gray-400 mb-10 leading-relaxed">
-            Book a demo and we'll help you find the best fit for your business.
+            Book a demo and we&apos;ll help you find the best fit for your business.
           </p>
           <Link
             href="/waitlist"

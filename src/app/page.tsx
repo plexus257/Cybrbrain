@@ -47,7 +47,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-20">
             <h2 className="text-4xl sm:text-5xl font-bold text-white mb-6 leading-tight">
-              The problem isn't complexity. It's chaos.
+              The problem isn&apos;t complexity. It&apos;s chaos.
             </h2>
             <p className="text-xl text-gray-400 max-w-2xl mx-auto leading-relaxed">
               Regulated MSMEs face shutdown risks and cashflow traps every day.
@@ -82,7 +82,7 @@ export default function Home() {
                 </svg>
               </div>
               <h3 className="text-2xl font-semibold text-white mb-4">Audit Trail Gaps</h3>
-              <p className="text-gray-400 text-lg leading-relaxed">Spreadsheets and paper records can't prove compliance. When inspectors arrive, you have no defense.</p>
+              <p className="text-gray-400 text-lg leading-relaxed">Spreadsheets and paper records can&apos;t prove compliance. When inspectors arrive, you have no defense.</p>
             </div>
           </div>
         </div>
@@ -175,7 +175,7 @@ export default function Home() {
                   <p className="text-gray-400 text-base">Recovered in 21 days</p>
                 </div>
               </div>
-              <p className="text-gray-400 text-lg leading-relaxed">"Automated WhatsApp recovery helped us collect overdue payments that were stuck for months. Our working capital is finally healthy."</p>
+              <p className="text-gray-400 text-lg leading-relaxed">&quot;Automated WhatsApp recovery helped us collect overdue payments that were stuck for months. Our working capital is finally healthy.&quot;</p>
               <p className="text-gray-500 text-base mt-6">— Pharma MSME, Ahmedabad</p>
             </div>
 
@@ -191,7 +191,7 @@ export default function Home() {
                   <p className="text-gray-400 text-base">Critical audit findings</p>
                 </div>
               </div>
-              <p className="text-gray-400 text-lg leading-relaxed">"Passed our FDA inspection with zero critical findings. The audit trail system proved every compliance action was documented and verified."</p>
+              <p className="text-gray-400 text-lg leading-relaxed">&quot;Passed our FDA inspection with zero critical findings. The audit trail system proved every compliance action was documented and verified.&quot;</p>
               <p className="text-gray-500 text-base mt-6">— Pharma Manufacturer, Gujarat</p>
             </div>
           </div>

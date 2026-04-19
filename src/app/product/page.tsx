@@ -93,7 +93,7 @@ export default function ProductPage() {
                   </div>
                   <div>
                     <h4 className="text-white font-semibold mb-1">DPDP Compliance Mapping</h4>
-                    <p className="text-gray-400 text-sm">Data protection compliance mapping for India's Digital Personal Data Protection Act.</p>
+                    <p className="text-gray-400 text-sm">Data protection compliance mapping for India&apos;s Digital Personal Data Protection Act.</p>
                   </div>
                 </div>
               </div>
